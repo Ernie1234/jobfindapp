@@ -1,14 +1,14 @@
-import React from 'react'
-import { View, Text } from 'react-native'
+import React from "react";
+import { View, Text } from "react-native";
 
-import styles from './nearbyjobcard.style'
+import styles from "./nearbyjobcard.style";
 
-const NearbyJobCard = () => {
+const NearbyjobsCard = () => {
   return (
     <View>
-      <Text>NearbyJobCard</Text>
+      <Text>NearbyjobsCard</Text>
     </View>
-  )
-}
+  );
+};
 
-export default NearbyJobCard
+export default NearbyjobsCard;
